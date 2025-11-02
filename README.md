@@ -15,10 +15,10 @@ For your account security, the spoofer will NOT work without proper anti-cheat p
 
 ```
 -- Load ZenAntiCheatBypass FIRST (REQUIRED)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ZenTheScripter/ZenAntiCheatBypass/main/Premium.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZenTheScripter/ZenAntiCheatBypass/main/ZenAntiCheatBypasser.lua"))()
 
 -- Then load ZenUltimateSpoofer
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ZenTheScripter/ZenUltimateSpoofer/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZenTheScripter/ZenUltimateSpoofer/main/Main.lua"))()
 ✨ Features
 
 🎭 Advanced Identity Spoofing
